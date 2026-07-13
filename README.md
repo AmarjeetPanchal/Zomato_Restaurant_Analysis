@@ -152,7 +152,7 @@ Provides strategic insights into restaurant distribution, pricing, customer beha
 
 ### 📈 Business Insights Dashboard
 
-> *(Insert Business Insights Dashboard Screenshot Here)*
+> ![Business Insights Dashboard](https://github.com/AmarjeetPanchal/Zomato_Restaurant_Analysis/blob/main/Business_Insights.png?raw=true)
 
 ---
 
@@ -177,10 +177,10 @@ Provides strategic insights into restaurant distribution, pricing, customer beha
 
 **Amarjeet Panchal**
 
-📧 **Email:** panchalamarjeet6@gmail.com
+📧 **Email:** *panchalamarjeet6@gmail.com*
 
-💼 **LinkedIn:** *(Add your LinkedIn Profile Link)*
+💼 **LinkedIn:** *https://www.linkedin.com/in/amarjeet-panchal-656402293/*
 
-🐙 **GitHub:** *(Add your GitHub Profile Link)*
+🐙 **GitHub:** *https://github.com/AmarjeetPanchal*
 
 ---
