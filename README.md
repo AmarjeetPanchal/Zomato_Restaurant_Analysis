@@ -146,7 +146,7 @@ Provides strategic insights into restaurant distribution, pricing, customer beha
 
 ### 👥 Restaurants & Customer Insights Dashboard
 
-> 
+> ![Restaurants & Customer Insights Dashboard](https://github.com/AmarjeetPanchal/Zomato_Restaurant_Analysis/blob/main/Restaurants_&_Customer_Insights.png?raw=true)
 
 ---
 
