@@ -140,7 +140,7 @@ Provides strategic insights into restaurant distribution, pricing, customer beha
 
 ### 📊 Executive Overview Dashboard
 
-> *(Insert Executive Dashboard Screenshot Here)*
+> ![Executive Overview Report](https://github.com/AmarjeetPanchal/Zomato_Restaurant_Analysis/blob/main/Executive_Overview_Report.png?raw=true)
 
 ---
 
